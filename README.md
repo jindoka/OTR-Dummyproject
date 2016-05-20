@@ -1,2 +1,4 @@
 # angular2-desktop
-Testapplication - First trials and errors
+A simple application demonstrating how to make desktop apps using Angular 2 and electron.
+
+For further details - http://tphangout.com/?p=300
